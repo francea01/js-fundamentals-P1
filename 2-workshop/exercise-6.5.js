@@ -16,6 +16,14 @@ function exercise6_5() {
   //
   // Write code between the lines (below)
   // -----------------------------------------------------------------
+  let i = 0;
+  for(i = 0; i < 10; i++) {
+    if(i % 2 === 0) {
+      console.log(i + ' is a even') ;
+    } else {
+      console.log(i + ' is a odd');
+    }
+  }
   // -----------------------------------------------------------------
   // Write code between the lines (above)
   //

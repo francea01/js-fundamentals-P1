@@ -52,7 +52,12 @@ Put your solution between the ```:
 _THIS IS SUPER IMPORTANT_, otherwise Prettier might destroy your solution:
 
 ```
-// Your solution here!
+
+let sentence = 'Hello World';
+if (sentence.includes ('Hello')) {
+    console.log('Sentence DOES contain the word "Hello"');
+} else {
+    console.log('Sentence DOES NOT contain the word "Hello"');
 
 ```
 
@@ -65,7 +70,9 @@ _THIS IS SUPER IMPORTANT_, otherwise Prettier might destroy your solution:
 5. const third = 0;
 
 ```
-// Your solution here!
+first: array[0][0]
+second: array[0][2]
+third: array [0][3]
 
 ```
 
@@ -79,7 +86,12 @@ _THIS IS SUPER IMPORTANT_, otherwise Prettier might destroy your solution:
 6. }
 
 ```
-// Your solution here!
+let currentNum = 10;
+let min = 5;
+while (currentNum > min) {
+    currentNum = currentNum - 1;
+    console.log(currentNum);
+}
 
 ```
 
@@ -94,7 +106,11 @@ _THIS IS SUPER IMPORTANT_, otherwise Prettier might destroy your solution:
 7. const reversedString = reversedArray.join('');
 
 ```
-// Your solution here!
+
+
+
+
+console.log('Your message:', reversedString)
 
 ```
 
@@ -109,7 +125,13 @@ _THIS IS SUPER IMPORTANT_, otherwise Prettier might destroy your solution:
 7. }
 
 ```
-// Your solution here!
+let count = 10;
+let total = 0;
+while (count > 0) {
+    total = total + count;
+    count = count - 1;
+    console.log('The total is:', total);
+}
 
 ```
 
@@ -126,6 +148,14 @@ _THIS IS SUPER IMPORTANT_, otherwise Prettier might destroy your solution:
 9. }
 
 ```
-// Your solution here!
+let array = [1, 3, 7, 4, 5, 2, 1];
+let numberToSearchFor = 5;
+for (let i = 0; i < array.length; i++) {
+    let item = array[i];
+    if (item === numberToSearchFor) {
+        console.log('Array includes the number!')
+    }
+
+}
 
 ```

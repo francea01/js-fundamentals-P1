@@ -15,6 +15,11 @@ function exercise11() {
   //
   // Write code between the lines (below)
   // -----------------------------------------------------------------
+  
+  for (let i = 0; i <= 9; i++) {
+    
+
+  }
   // -----------------------------------------------------------------
   // Write code between the lines (above)
   //

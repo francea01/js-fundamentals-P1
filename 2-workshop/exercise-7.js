@@ -23,6 +23,17 @@ function exercise7() {
   //
   // Write code between the lines (below)
   // -----------------------------------------------------------------
+  
+  for(i = 0; i < 24 ; i ++) {
+    if(i === 6 || i === 12 || i === 18) {
+      console.log(`it's ${i}. Time to eat!`);
+    } else if (i ===0 || i === 1 || i === 2 || i === 3 || i === 4 || i === 5 || i === 22 || i === 23){
+      console.log(`ìt's ${i}. TIme to sleep! `);
+    } else {
+      console.log(`ìt's ${i}. Time to train!`);
+    }
+      console.log(i);
+  }
   // -----------------------------------------------------------------
   // Write code between the lines (above)
   //
@@ -36,4 +47,4 @@ function exercise7() {
 // Once you are done type the following in the terminal to test your answer(s).
 // yarn test exercise-7
 
-module.exports = exercise7;
+module.exports = exercise7

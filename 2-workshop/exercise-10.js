@@ -13,6 +13,16 @@ function exercise10() {
   //
   // Write code between the lines (below)
   // -----------------------------------------------------------------
+ let i = 0;
+ i.length = 7
+for(let triangle = "#"; triangle.length <= 7; triangle += "#"){
+  console.log(triangle);
+  if(i.length === triangle.length) {
+    console.log(triangle);
+  }
+}
+  
+
   // -----------------------------------------------------------------
   // Write code between the lines (above)
   //
