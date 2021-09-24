@@ -23,7 +23,7 @@ function exercise7() {
   //
   // Write code between the lines (below)
   // -----------------------------------------------------------------
-  
+   
   for(i = 0; i < 24 ; i ++) {
     if(i === 6 || i === 12 || i === 18) {
       console.log(`it's ${i}. Time to eat!`);

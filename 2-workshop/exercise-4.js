@@ -16,7 +16,7 @@ function exercise4() {
   }
   // -----------------------------------------------------------------
   // Edit only the code between the lines (above)
-  //
+  // 
   //
   //
   //

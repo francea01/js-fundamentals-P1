@@ -19,7 +19,7 @@ function exercise11() {
   for (let i = 0; i <= 9; i++) {
     
 
-  }
+  } 
   // -----------------------------------------------------------------
   // Write code between the lines (above)
   //

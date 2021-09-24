@@ -17,7 +17,7 @@ function exercise6_1() {
   //
   //
   //
-  //
+  // 
 }
 
 // Once you are done type the following in the terminal to test your answer(s).

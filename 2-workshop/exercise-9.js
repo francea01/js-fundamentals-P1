@@ -45,7 +45,7 @@ function exercise9() {
   // -----------------------------------------------------------------
   // Write code between the lines (above)
   //
-  //
+  // 
   //
   //
   //

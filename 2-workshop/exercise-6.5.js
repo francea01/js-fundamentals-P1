@@ -23,7 +23,7 @@ function exercise6_5() {
     } else {
       console.log(i + ' is a odd');
     }
-  }
+  } 
   // -----------------------------------------------------------------
   // Write code between the lines (above)
   //
