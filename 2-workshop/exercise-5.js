@@ -12,7 +12,7 @@ function exercise5() {
       console.log(number);
     }
     
-  }
+  } 
   // -----------------------------------------------------------------
   // Edit only the code between the lines (above)
   //

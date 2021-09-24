@@ -14,7 +14,7 @@ function exercise3() {
   // Edit only the code between the lines (above)
   //
   //
-  //
+  // 
   //
   // 
   //

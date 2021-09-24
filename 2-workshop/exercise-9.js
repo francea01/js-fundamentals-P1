@@ -41,7 +41,7 @@ function exercise9() {
       }
       console.log(i);
     }
-    
+     
   // -----------------------------------------------------------------
   // Write code between the lines (above)
   //
